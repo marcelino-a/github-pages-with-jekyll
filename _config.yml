@@ -1,12 +1,13 @@
 theme: minima
-title: Modified Title, MA
+title: Marcelino Anguiano
 author: I am the author MA
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is modified description in _config.yml file, following step 4 of github pages learning lab
-
+  This is my personal website (under construction)
+ 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+linkedin_username: marcelino-anguiano-74083685
+twitter_username: NONE # DO NOT include the @ character, or else the build will fail!
+github_username:  NONE # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
